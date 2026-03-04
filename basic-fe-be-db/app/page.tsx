@@ -7,7 +7,6 @@ export default function Home() {
       <div className="text-2xl">
         <h1>Todo Application</h1>
       </div>
-      <br />
       <div className="flex flex-col">
         <Link className="m-2 p-2 border" href="/signup">signUp</Link>
         <Link className="m-2 p-2 border" href="/signin">signIn</Link>
